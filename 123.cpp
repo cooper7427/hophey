@@ -2,6 +2,9 @@
 
 int main (void)
 {
-  printf("Hello, World!");
+   int a;
+   printf("¬ведите\n");
+   scanf("%d", &a);
+  printf("Hello, World!\n");
   return 0;
 }
