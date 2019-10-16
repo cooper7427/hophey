@@ -5,6 +5,6 @@ int main (void)
    int a;
    printf("¬ведите\n");
    scanf("%d", &a);
-  printf("Hello, World!\n");
+  printf("Hello, %d!\n", a);
   return 0;
 }
